@@ -1,0 +1,1 @@
+This application demonstrates the ability to instantiate a new window using NSWindowController and executes system commands when buttons are pressed.

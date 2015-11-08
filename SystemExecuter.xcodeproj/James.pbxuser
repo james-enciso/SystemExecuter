@@ -1,0 +1,215 @@
+// !$*UTF8*$!
+{
+	1ACCFADA1BEF322B00F6DE92 /* SystemExecuter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SystemExecuter;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	1ACCFAEB1BEF324000F6DE92 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1ACCFAEC1BEF324000F6DE92 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1ACCFAF41BEF331D00F6DE92 /* DeleteWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 416}}";
+			sepNavSelRange = "{444, 114}";
+			sepNavVisRange = "{246, 320}";
+		};
+	};
+	1ACCFAF51BEF331D00F6DE92 /* DeleteWindow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {726, 741}}";
+			sepNavSelRange = "{1037, 0}";
+			sepNavVisRange = "{296, 374}";
+		};
+	};
+	1ACCFAF81BEF340C00F6DE92 /* MainWindow.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {474, 299}}";
+			sepNavSelRange = "{354, 0}";
+			sepNavVisRange = "{82, 275}";
+		};
+	};
+	1ACCFAF91BEF340C00F6DE92 /* MainWindow.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {677, 351}}";
+			sepNavSelRange = "{410, 0}";
+			sepNavVisRange = "{145, 294}";
+		};
+	};
+	1ACCFB201BEF361D00F6DE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* SystemExecuterAppDelegate.h */;
+		name = "SystemExecuterAppDelegate.h: 12";
+		rLen = 22;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 336;
+		vrLoc = 0;
+	};
+	1ACCFB211BEF361D00F6DE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* SystemExecuterAppDelegate.m */;
+		name = "SystemExecuterAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 361;
+		vrLoc = 35;
+	};
+	1ACCFB221BEF361D00F6DE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1ACCFAF81BEF340C00F6DE92 /* MainWindow.h */;
+		name = "MainWindow.h: 20";
+		rLen = 0;
+		rLoc = 354;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 42;
+	};
+	1ACCFB581BEF39AC00F6DE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1ACCFAF91BEF340C00F6DE92 /* MainWindow.m */;
+		name = "MainWindow.m: 21";
+		rLen = 0;
+		rLoc = 434;
+		rType = 0;
+		vrLen = 298;
+		vrLoc = 145;
+	};
+	1ACCFBAA1BEF40D000F6DE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1ACCFAF41BEF331D00F6DE92 /* DeleteWindow.h */;
+		name = "DeleteWindow.h: 26";
+		rLen = 114;
+		rLoc = 444;
+		rType = 0;
+		vrLen = 320;
+		vrLoc = 246;
+	};
+	1ACCFBAB1BEF40D000F6DE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1ACCFAF51BEF331D00F6DE92 /* DeleteWindow.m */;
+		name = "DeleteWindow.m: 30";
+		rLen = 0;
+		rLoc = 638;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 415;
+	};
+	1ACCFBC21BEF421000F6DE92 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1ACCFAF51BEF331D00F6DE92 /* DeleteWindow.m */;
+		name = "DeleteWindow.m: 43";
+		rLen = 0;
+		rLoc = 850;
+		rType = 0;
+		vrLen = 282;
+		vrLoc = 761;
+	};
+	256AC3D80F4B6AC300CF3369 /* SystemExecuterAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {523, 234}}";
+			sepNavSelRange = "{259, 22}";
+			sepNavVisRange = "{0, 336}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* SystemExecuterAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 260}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{35, 361}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 1ACCFADA1BEF322B00F6DE92 /* SystemExecuter */;
+		activeTarget = 8D1107260486CEB800E47090 /* SystemExecuter */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* SystemExecuter */,
+		);
+		codeSenseManager = 1ACCFAEC1BEF324000F6DE92 /* Code sense */;
+		executables = (
+			1ACCFADA1BEF322B00F6DE92 /* SystemExecuter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 468660779;
+			PBXWorkspaceStateSaveDate = 468660779;
+		};
+		perUserProjectItems = {
+			1ACCFB201BEF361D00F6DE92 /* PBXTextBookmark */ = 1ACCFB201BEF361D00F6DE92 /* PBXTextBookmark */;
+			1ACCFB211BEF361D00F6DE92 /* PBXTextBookmark */ = 1ACCFB211BEF361D00F6DE92 /* PBXTextBookmark */;
+			1ACCFB221BEF361D00F6DE92 /* PBXTextBookmark */ = 1ACCFB221BEF361D00F6DE92 /* PBXTextBookmark */;
+			1ACCFB581BEF39AC00F6DE92 /* PBXTextBookmark */ = 1ACCFB581BEF39AC00F6DE92 /* PBXTextBookmark */;
+			1ACCFBAA1BEF40D000F6DE92 /* PBXTextBookmark */ = 1ACCFBAA1BEF40D000F6DE92 /* PBXTextBookmark */;
+			1ACCFBAB1BEF40D000F6DE92 /* PBXTextBookmark */ = 1ACCFBAB1BEF40D000F6DE92 /* PBXTextBookmark */;
+			1ACCFBC21BEF421000F6DE92 /* PBXTextBookmark */ = 1ACCFBC21BEF421000F6DE92 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1ACCFAEB1BEF324000F6DE92 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107260486CEB800E47090 /* SystemExecuter */ = {
+		activeExec = 0;
+		executables = (
+			1ACCFADA1BEF322B00F6DE92 /* SystemExecuter */,
+		);
+	};
+}

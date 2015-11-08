@@ -1,0 +1,214 @@
+TSystemExecuter
+v7
+r0
+t468660980.469540
+cCheck dependencies
+cProcessInfoPlistFile /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Info.plist SystemExecuter-Info.plist
+cCopyStringsFile /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/James/Desktop/SystemExecuter/English.lproj/MainMenu.xib
+cCompileXIB /Users/James/Desktop/SystemExecuter/Delete.xib
+cProcessPCH /var/folders/x9/x9rkQLuhFjGg1KDPWN0TMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SystemExecuter_Prefix-fzbdqqzkdctmdyfqmvzsfrgocoez/SystemExecuter_Prefix.pch.gch SystemExecuter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/main.o /Users/James/Desktop/SystemExecuter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/SystemExecuterAppDelegate.o /Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/MacOS/SystemExecuter normal x86_64
+cTouch /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D2C907700000000000000EE
+t1294766199
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/James/Desktop/SystemExecuter/Delete.xib
+c00000000563EFB6500000000000019B1
+t1446968165
+s6577
+
+N/Users/James/Desktop/SystemExecuter/English.lproj/InfoPlist.strings
+c00000000563EFAAB000000000000002D
+t1446967979
+s45
+
+N/Users/James/Desktop/SystemExecuter/English.lproj/MainMenu.xib
+c00000000563EFAAB000000000002BBB8
+t1446967979
+s179128
+
+N/Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.h
+c00000000563EFAAB0000000000000150
+t1446967979
+s336
+i<Cocoa/Cocoa.h>
+
+N/Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.m
+c00000000563EFAAB000000000000018C
+t1446967979
+s396
+i"SystemExecuterAppDelegate.h"
+
+N/Users/James/Desktop/SystemExecuter/SystemExecuter_Prefix.pch
+c00000000563EFAAB000000000000009F
+t1446967979
+s159
+i<Cocoa/Cocoa.h>
+
+N/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app
+t1446968180
+s102
+
+N/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Info.plist
+t1446968170
+s907
+
+N/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/MacOS/SystemExecuter
+t1446968180
+s14640
+
+N/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/PkgInfo
+t1446968170
+s8
+
+N/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/Delete.nib
+t1446968171
+s1843
+
+N/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1446968171
+s92
+
+N/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/English.lproj/MainMenu.nib
+t1446968171
+s34490
+
+N/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/SystemExecuter.LinkFileList
+c00000000563EFB6A0000000000000103
+t1446968170
+s259
+
+N/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/SystemExecuterAppDelegate.o
+t1446968179
+s21272
+
+N/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/main.o
+t1446968179
+s4984
+
+N/Users/James/Desktop/SystemExecuter/main.m
+c00000000563EFAAB0000000000000104
+t1446967979
+s260
+i<Cocoa/Cocoa.h>
+
+N/var/folders/x9/x9rkQLuhFjGg1KDPWN0TMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SystemExecuter_Prefix-fzbdqqzkdctmdyfqmvzsfrgocoez/SystemExecuter_Prefix.pch.gch
+t1446968179
+s54306576
+
+NSystemExecuter-Info.plist
+c00000000563EFAAB00000000000003EA
+t1446967979
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies468660970#468660970#0(0"0(0#1#0"24653640#0"0#
+
+CCompileC build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/SystemExecuterAppDelegate.o /Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s468660979.462550
+e468660979.811782
+r1
+xCompileC
+xbuild/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/SystemExecuterAppDelegate.o
+x/Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.m468660979#468660979#0(0"0(0#0#63"/Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.m549360#1599"    cd /Users/James/Desktop/SystemExecuter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-generated-files.hmap -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-own-target-headers.hmap -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-all-target-headers.hmap -iquote /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-project-headers.hmap -F/Users/James/Desktop/SystemExecuter/build/Debug -I/Users/James/Desktop/SystemExecuter/build/Debug/include -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/DerivedSources/x86_64 -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/DerivedSources -include /var/folders/x9/x9rkQLuhFjGg1KDPWN0TMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SystemExecuter_Prefix-fzbdqqzkdctmdyfqmvzsfrgocoez/SystemExecuter_Prefix.pch -c /Users/James/Desktop/SystemExecuter/SystemExecuterAppDelegate.m -o /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/SystemExecuterAppDelegate.o0#
+
+CCompileC build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/main.o /Users/James/Desktop/SystemExecuter/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s468660979.461080
+e468660979.800553
+r1
+xCompileC
+xbuild/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/main.o
+x/Users/James/Desktop/SystemExecuter/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/James/Desktop/SystemExecuter/main.m468660979#468660979#0(0"0(0#0#42"/Users/James/Desktop/SystemExecuter/main.m549360#1557"    cd /Users/James/Desktop/SystemExecuter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-generated-files.hmap -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-own-target-headers.hmap -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-all-target-headers.hmap -iquote /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-project-headers.hmap -F/Users/James/Desktop/SystemExecuter/build/Debug -I/Users/James/Desktop/SystemExecuter/build/Debug/include -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/DerivedSources/x86_64 -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/DerivedSources -include /var/folders/x9/x9rkQLuhFjGg1KDPWN0TMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SystemExecuter_Prefix-fzbdqqzkdctmdyfqmvzsfrgocoez/SystemExecuter_Prefix.pch -c /Users/James/Desktop/SystemExecuter/main.m -o /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/James/Desktop/SystemExecuter/Delete.xib
+s468660971.089331
+e468660971.597621
+r1
+xCompileXIB
+x/Users/James/Desktop/SystemExecuter/Delete.xib
+lSLF07#2@21"CompileXIB Delete.xib468660971#468660971#0(0"0(0#0#46"/Users/James/Desktop/SystemExecuter/Delete.xib549360#330"    cd /Users/James/Desktop/SystemExecuter    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/Delete.nib /Users/James/Desktop/SystemExecuter/Delete.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/James/Desktop/SystemExecuter/English.lproj/MainMenu.xib
+s468660970.374712
+e468660971.589040
+r1
+xCompileXIB
+x/Users/James/Desktop/SystemExecuter/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib468660970#468660971#0(0"0(0#0#62"/Users/James/Desktop/SystemExecuter/English.lproj/MainMenu.xib549360#362"    cd /Users/James/Desktop/SystemExecuter    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/English.lproj/MainMenu.nib /Users/James/Desktop/SystemExecuter/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s468660970.326652
+e468660971.089215
+r1
+xCopyStringsFile
+x/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings468660970#468660971#0(0"0(0#0#67"/Users/James/Desktop/SystemExecuter/English.lproj/InfoPlist.strings24653640#366"    cd /Users/James/Desktop/SystemExecuter    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Resources/English.lproj0#
+
+CLd /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/MacOS/SystemExecuter normal x86_64
+s468660979.811898
+e468660980.395316
+r1
+xLd
+x/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/MacOS/SystemExecuter
+xnormal
+xx86_64
+lSLF07#2@101"Link /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/MacOS/SystemExecuter468660979#468660980#0(0"0(0#0#0"549360#562"    cd /Users/James/Desktop/SystemExecuter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/James/Desktop/SystemExecuter/build/Debug -F/Users/James/Desktop/SystemExecuter/build/Debug -filelist /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/Objects-normal/x86_64/SystemExecuter.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/MacOS/SystemExecuter0#
+
+CProcessInfoPlistFile /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Info.plist SystemExecuter-Info.plist
+s468660970.238286
+e468660970.326465
+r1
+xProcessInfoPlistFile
+x/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Info.plist
+xSystemExecuter-Info.plist
+lSLF07#2@33"Process SystemExecuter-Info.plist468660970#468660970#0(0"0(0#0#61"/Users/James/Desktop/SystemExecuter/SystemExecuter-Info.plist24653640#322"    cd /Users/James/Desktop/SystemExecuter    builtin-infoPlistUtility SystemExecuter-Info.plist -genpkginfo /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/x9/x9rkQLuhFjGg1KDPWN0TMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SystemExecuter_Prefix-fzbdqqzkdctmdyfqmvzsfrgocoez/SystemExecuter_Prefix.pch.gch SystemExecuter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s468660971.597772
+e468660979.460816
+r1
+xProcessPCH
+x/var/folders/x9/x9rkQLuhFjGg1KDPWN0TMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SystemExecuter_Prefix-fzbdqqzkdctmdyfqmvzsfrgocoez/SystemExecuter_Prefix.pch.gch
+xSystemExecuter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile SystemExecuter_Prefix.pch468660971#468660979#0(0"0(0#0#61"/Users/James/Desktop/SystemExecuter/SystemExecuter_Prefix.pch549360#1459"    cd /Users/James/Desktop/SystemExecuter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-generated-files.hmap -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-own-target-headers.hmap -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-all-target-headers.hmap -iquote /Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/SystemExecuter-project-headers.hmap -F/Users/James/Desktop/SystemExecuter/build/Debug -I/Users/James/Desktop/SystemExecuter/build/Debug/include -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/DerivedSources/x86_64 -I/Users/James/Desktop/SystemExecuter/build/SystemExecuter.build/Debug/SystemExecuter.build/DerivedSources -c /Users/James/Desktop/SystemExecuter/SystemExecuter_Prefix.pch -o /var/folders/x9/x9rkQLuhFjGg1KDPWN0TMU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SystemExecuter_Prefix-fzbdqqzkdctmdyfqmvzsfrgocoez/SystemExecuter_Prefix.pch.gch0#
+
+CTouch /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app
+s468660980.395418
+e468660980.469466
+r1
+xTouch
+x/Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app
+lSLF07#2@72"Touch /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app468660980#468660980#0(0"0(0#0#0"549360#132"    cd /Users/James/Desktop/SystemExecuter    /usr/bin/touch -c /Users/James/Desktop/SystemExecuter/build/Debug/SystemExecuter.app0#
+
